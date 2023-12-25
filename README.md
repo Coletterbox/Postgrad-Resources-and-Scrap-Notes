@@ -60,4 +60,5 @@
 1. The pre-work that the physics director emailed you
 2. pdfcoffee.com
 3. libgen.li
+4. Textbooks on phone (Linear Algebra, Statistics, Regression Analysis)
 
