@@ -39,7 +39,7 @@
 3. [Part of a larger Khan Academy unit, but probably comes up in current course](https://www.khanacademy.org/math/ap-statistics/random-variables-ap)
 
 #### Statistical Inference
-1. [w3schools explanation (but probably repeats current course](https://www.w3schools.com/statistics/statistics_statistical_inference.php)
+1. [w3schools explanation (but probably repeats current course)](https://www.w3schools.com/statistics/statistics_statistical_inference.php)
 
 ### _Optional_
 
