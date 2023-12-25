@@ -1,8 +1,14 @@
-# _Resource List_
+# _MSc To Do List_
+
+1. ST8001 Introduction to Statistical Methods
+2. ST8002 Implementing Statistical Methods in R
+3. ST8003 Linear Regression
+1. ST80080 Foundations of Data Science 1
+ 
 
 ----
 
-## _MPhil Prep_
+# _MPhil Prep Resource List_
 
 ### _Necessary_
 
