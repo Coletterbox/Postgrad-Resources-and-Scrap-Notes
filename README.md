@@ -51,7 +51,7 @@
 
 #### Classical Mechanics
 1. [UCL course notes](https://www.ucl.ac.uk/~zcapd49/phas1247coursenotes.pdf)
-2. [MIT ourse](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)
+2. [MIT course](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)
 
 #### Multi-Variable Calculus
 1. [Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
