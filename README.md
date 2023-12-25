@@ -4,7 +4,21 @@
 2. ST8002 Implementing Statistical Methods in R
 3. ST8003 Linear Regression
 1. ST80080 Foundations of Data Science 1
- 
+
+### First Semester (Michaelmas Term)
+
+[] Week #1:   Session #1 – Data Summaries and Graphs
+[] Week #2:   Session #2 – Using Data to Learn, Answer Questions and Make Decisions
+[] Week #3:   Session #3 – Basic Probability and Statistical Models
+[] Week #4:   Session #4 – Hypothesis Tests
+[] Week #5:   Session #1 of ST8002
+[] Week #6:   Session #2 of ST8002
+[] Week #7:   (reading week)
+[] Week #8:   Session #5 – Confidence Intervals and Type I and Type II Errors
+[] Week #9:   Session #6 – Analysing Count Data
+[] Week #10: Session #7 – Going Beyond the Mean
+[] Week #11: Session #3 of ST8002
+[] Week #12: Session #4 of ST8002
 
 ----
 
